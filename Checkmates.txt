@@ -1,0 +1,2 @@
+White player (UPPERCASE/ALL CAPS) is in CHECK! -> Total Checks: 2
+Black player (LOWERCASE/ALL CAPS) is in CHECK! -> Total Checks: 1
